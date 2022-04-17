@@ -1,12 +1,11 @@
 export default {
-  github: 'https://github.com/elfDAO/docs',
-  docsRepositoryBase: 'https://github.com/elfDAO/docs/blob/master',
-  titleSuffix: ' – elfDAO',
+  github: 'https://github.com/KevNFriends/WhitePaper',
+  titleSuffix: ' – Kev N Friends',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">🎄 elfDAO</span>
+      <span className="mr-2 font-extrabold hidden md:inline"> Kev N Friends </span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        Documentation
+        Whitepaper
       </span>
     </>
   ),
@@ -16,15 +15,15 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="elfDAO. WAGBG." />
-      <meta name="og:description" content="elfDAO. WAGBG." />
+      <meta name="description" content="KevNFriends" />
+      <meta name="og:description" content="KevNFriends" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="/../og.png" />
       <meta name="twitter:site:domain" content="docs.elfdao.com" />
       <meta name="twitter:url" content="/../og.png" />
-      <meta name="og:title" content="elfDAO" />
+      <meta name="og:title" content="KevNFriends" />
       <meta name="og:image" content="/../og.png" />
-      <meta name="apple-mobile-web-app-title" content="elfDAO" />
+      <meta name="apple-mobile-web-app-title" content="KevNFriends" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
@@ -62,6 +61,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page',
-  footerText: <>© {new Date().getFullYear()} elfDAO</>,
-  unstable_faviconGlyph: '🎄',
+  footerText: <>© {new Date().getFullYear()} KevNFriends</>,
+  unstable_faviconGlyph: '',
 }
