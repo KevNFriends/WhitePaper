@@ -18,11 +18,11 @@ export default {
       <meta name="description" content="KevNFriends" />
       <meta name="og:description" content="KevNFriends" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="/../og.png" />
+      <meta name="twitter:image" content="/../og1.png" />
       <meta name="twitter:site:domain" content="white-paper-seven.vercel.app/" />
-      <meta name="twitter:url" content="/../og.png" />
+      <meta name="twitter:url" content="/../og1.png" />
       <meta name="og:title" content="KevNFriends" />
-      <meta name="og:image" content="/../og.png" />
+      <meta name="og:image" content="/../og1.png" />
       <meta name="apple-mobile-web-app-title" content="KevNFriends" />
       <link
         rel="apple-touch-icon"
