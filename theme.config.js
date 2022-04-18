@@ -1,11 +1,11 @@
 export default {
-  github: 'https://github.com/KevNFriends/WhitePaper',
+  github: 'https://github.com/KevNFriends/LitePaper',
   titleSuffix: ' – Kev N Friends',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline"> Kev N Friends </span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        Whitepaper
+        LitePaper
       </span>
     </>
   ),
