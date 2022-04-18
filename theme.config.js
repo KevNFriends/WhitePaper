@@ -60,7 +60,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page',
   footerText: <>© {new Date().getFullYear()} KevNFriends</>,
   unstable_faviconGlyph: '',
 }
